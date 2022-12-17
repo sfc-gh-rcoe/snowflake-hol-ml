@@ -3,7 +3,7 @@ FROM gitpod/workspace-full
 
 # USER gitpod
 
-RUN pip install snowflake-snowpark-python[pandas] snowflake-connector-python snowflake-snowpark-python streamlit jupyter scikit-learn numpy lightgbm xgboost scipy seaborn matplotlib cloudpickle cachetools imbalanced-learn optuna notebook
+RUN pip install snowflake-snowpark-python[pandas] snowflake-connector-python snowflake-snowpark-python streamlit jupyter scikit-learn numpy lightgbm xgboost scipy seaborn matplotlib cloudpickle cachetools imbalanced-learn optuna venv notebook
 
 # WORKDIR /snow/tmp
 
