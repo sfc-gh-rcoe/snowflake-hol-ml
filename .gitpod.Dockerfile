@@ -1,5 +1,5 @@
 # FROM gitpod/workspace-full
-FROM jupyter/datascience-noteboo
+FROM jupyter/datascience-notebook
 
 # USER gitpod
 
