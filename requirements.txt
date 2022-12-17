@@ -1,4 +1,16 @@
 altair
-pandas
+snowflake-snowpark-python[pandas]
 streamlit
 snowflake.connector
+numpy
+scikit-learn
+lightgbm
+xgboost
+scipy
+seaborn
+matplotlib
+cloudpickle
+jupyter
+cachetools
+imbalanced-learn
+optuna
